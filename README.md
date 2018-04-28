@@ -10,5 +10,6 @@ git clone https://github.com/ShettyPratik13/ud036_StarterCode.git
 ### Usage
 To use this code, you must run the entertainment_center.py file once you're in the **ud036_StarterCode** directory as such -
 ```
+cd ud036_StarterCode
 sudo python entertainment_center.py
 ```
