@@ -2,7 +2,7 @@
 Source code for a Movie Trailer website.
 
 ## Cloning the repo
-You must have Python 2.7 installed. To clone this repository, use this instruction in the terminal -
+You must have Python 2.7 installed. To clone this repository, use this instruction in the terminal - &nbsp;
 `git clone https://github.com/ShettyPratik13/ud036_StarterCode.git`
 
 ## Usage
