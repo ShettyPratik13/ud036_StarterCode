@@ -1,5 +1,6 @@
 import webbrowser
 
+
 class Movie():
     """ This class is a blueprint of a movie.
 
@@ -12,10 +13,11 @@ class Movie():
         poster_image_url: The url to the movie's poster.
         trailer_youtube_url: The url to the movie's trailer on youtube.
     """
-    
-    VALID_RATINGS = ["G","PG","PG-13","R"]
-    def __init__(self, movie_title, movie_storyline, poster_image, \
-                 trailer_youtube):
+
+    VALID_RATINGS = ["G", "PG", "PG-13", "R"]
+
+    def __init__(self, movie_title,
+                 movie_storyline, poster_image, trailer_youtube):
         """Initializes Movie instance"""
         self.title = movie_title
         self.storyline = movie_storyline
